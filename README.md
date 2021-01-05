@@ -1,2 +1,2 @@
-# Data-Visualization-with-Python---Final-Project
-Data Visualization with Python - Final Project sample
+# Data-Visualization-with-Python---Final-Project (Sample)
+Data Visualization with Python - Final Project (Sample)
